@@ -1,16 +1,13 @@
-# flutter_application_5
+# Лабораторная работа №4
+## Страница приветсвия
 
-A new Flutter project.
+![изображение](https://github.com/Kumiko235/flutter_application_5/assets/89511165/7d1622b7-753e-4ec3-b2e8-5b2897e1f73b)
 
-## Getting Started
+## Главный экран с товарами 
 
-This project is a starting point for a Flutter application.
+![изображение](https://github.com/Kumiko235/flutter_application_5/assets/89511165/8bfcd5d6-c13e-476f-b27f-2723df808bc3)
 
-A few resources to get you started if this is your first Flutter project:
+## Экран с детальной информацией о товаре 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![изображение](https://github.com/Kumiko235/flutter_application_5/assets/89511165/836b8a6f-dc05-4ba7-8ca2-621c24e82afd)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
